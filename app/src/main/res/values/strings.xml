@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">lab6</string>
+    <string name="welcome">Welcome to mobile traveler!</string>
+    <string name="surname">Фамилия:</string>
+    <string name="name">Имя:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="greeting">Здравствуйте,</string>
+    <string name="name_sight4">Московский Кремль</string>
+    <string name="divider">________________________________________________________________</string>
+    <string name="next">Далее</string>
+    <string name="name_sight5">Центр Москва-сити</string>
+    <string name="name_sight1">Большой театр</string>
+    <string name="name_sight2">Парк Горького</string>
+    <string name="name_sight3">ВДНХ</string>
+    <string name="description">Description</string>
+    <string name="hint">Введите свое имя</string>
+    <string name="hint_surnaem">Введите свою фамилию</string>
+    <string name="hint_email">Введите свою почту</string>
+</resources>
